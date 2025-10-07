@@ -1,0 +1,25 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "Number guessing game with save feature and replay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samieremie/Number-Guessing-Game.git"
+  },
+  "author": "Samuel Ieremie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samieremie/Number-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/samieremie/Number-Guessing-Game#readme",
+  "bin": {
+    "number-guessing-game": "./index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
